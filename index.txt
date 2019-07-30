@@ -1,2 +1,2 @@
-@dwimm/plugin-bunq
-@dwimm/plugin-n26
+@ubud-app/plugin-bunq
+@ubud-app/plugin-n26
