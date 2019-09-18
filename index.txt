@@ -1,2 +1,1 @@
 @ubud-app/plugin-bunq
-@ubud-app/plugin-n26
